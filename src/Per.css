@@ -1,0 +1,105 @@
+.p-container{
+    width: 90%;
+    margin: 20px auto;
+}
+.p-container p{
+    margin-top: 30px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left:70px ;
+    margin-right: 70px;
+}
+.Thermal-container{
+    float:left;
+    width: 50%;
+    background-color: rgb(79, 82, 81);
+    height: 250px;
+    
+}
+.memory-container{
+    float:right;
+    width: 50%;
+    height: 250px;
+    background: #606c88;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3f4c6b, #606c88);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3f4c6b, #606c88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.security-container{
+    float:left;
+    width: 50%;
+    background: #bdc3c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    height: 250px;
+}
+.Battery-container{
+    float:right;
+    width: 50%;
+    background-color: rgb(79, 82, 81);
+    height: 250px;
+}
+.connection-container{
+    float:left;
+    width: 50%;
+    background: #1F1C2C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #928DAB, #1F1C2C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #928DAB, #1F1C2C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    height: 250px;
+}
+.touch-container{
+    float:right;
+    height: 250px;
+    width: 50%;
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+h2{
+    color: aliceblue;
+   font-size: 30px;
+   text-decoration: underline;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+.per-container{
+    text-align: center;
+    color:azure;
+    text-shadow: 2px 2px blue;
+    font-size: 30px;
+}
+.bright-container{
+    float:left;
+    height: 450px;
+    width: 33%;
+    background: #283c86;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.color-container{
+    float:left;
+    height: 450px;
+    width: 33%;
+}
+.color-container >h1,img,p{
+    margin-left: 50px;
+}
+.tone-container{
+    float:right;
+    height: 450px;
+    width: 33%;
+     background: #3CA55C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #B5AC49, #3CA55C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #B5AC49, #3CA55C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+}
+.copy-container {
+    
+    color: aliceblue;
+    margin-left: 60px;
+}

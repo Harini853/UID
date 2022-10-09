@@ -1,0 +1,41 @@
+.spec-container{
+    width:80%;
+    margin: 0 auto;
+}
+.spec-container > h1{
+   margin-top: 24px;
+    text-align: center;
+    color:azure;
+    text-shadow: 2px 2px blue;
+    font-size: 50px;
+}
+.spec-container > p{
+    margin-top: 18px;
+    color: white;
+   font-size: 24px;
+   margin-bottom: 24px;
+   
+}
+.spec-img-container{
+    width:20%;
+    margin: 0 auto;
+}
+.spec-img-container > img{
+    width: 100%;
+   object-fit: cover;
+     
+}
+
+table{
+    color: azure;
+    margin-left: 40%;
+    font-size: 25px;
+}
+
+/* .spec-container > h2{
+    margin-top: 20px;
+    text-align: center;
+    color:azure;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+} */

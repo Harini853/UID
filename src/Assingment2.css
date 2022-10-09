@@ -1,0 +1,9 @@
+.content{
+    display: flex;
+}
+.para{
+    width: 60%;
+}
+.table{
+    width: 40%;
+}
